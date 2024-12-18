@@ -1,0 +1,12 @@
+how git init command is used in the git
+r[3these command is used for creating or uploading a file
+from our local machine to remote using git.
+steps:-
+in first step we write git init.
+next one we write "git remote add origin< [D[D[D[C [C<[[C[C< we paste the link which we created in our github accout >.
+git remote -v (to verify the remote )[[C).
+git branch (to check the branch)
+[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D.
+git branch-M main(to change the name of the branch)
+git push origin main(to push the code into remote repository).
+or else we can use git push -u (for up stream repository Or we can call it as regular repository).
